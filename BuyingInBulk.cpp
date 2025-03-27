@@ -1,5 +1,5 @@
 /*
-CSC-120- Intro to Computer Sci/OOP
+CSC-120- Intro to Comp Sci/OOP
 Project Name: BuyingInBulk
 Student: Weiquan Mai
 Date: October 5, 2024
